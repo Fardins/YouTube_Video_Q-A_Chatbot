@@ -9,3 +9,7 @@ langchain-text-splitters
 youtube-transcript-api
 sentence-transformers
 streamlit
+
+torch 
+torchvision 
+torchaudio
