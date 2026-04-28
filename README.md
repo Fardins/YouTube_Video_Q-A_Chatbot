@@ -4,6 +4,13 @@ A Retrieval-Augmented Generation (RAG) chatbot built with LangChain and Streamli
 
 This application leverages advanced natural language processing to provide instant, accurate answers from video content without requiring users to watch the entire video. It supports multiple languages including English, Hindi, and Bangla, making it accessible to a diverse audience. The system uses HuggingFace embeddings for semantic understanding and Groq's LLaMA model for generating contextually relevant responses. With a modular architecture, it's easy to customize and extend for different use cases.
 
+##  Live Demo
+
+**Try the application online:** [ YouTube Video Q&A Chatbot](https://youtubevideoq-achatbot.streamlit.app/)
+
+No installation required! Paste any video ID and ask questions about that video and LLMs generating contextually relevant responses.
+
+
 ## Table of Contents
 
 - [Features](#features)
